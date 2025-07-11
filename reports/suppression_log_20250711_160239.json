@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-07-11T16:02:15.630983",
+    "total_alerts": 1908,
+    "suppressed_count": 935,
+    "surfaced_count": 973,
+    "suppression_rate": 49.0041928721174,
+    "average_risk_score": 44.02149880451823,
+    "suppressed_avg_score": 13.581812311123503,
+    "surfaced_avg_score": 73.27237945336105
+  }
+]
